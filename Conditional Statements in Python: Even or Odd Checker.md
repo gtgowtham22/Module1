@@ -25,3 +25,4 @@ else:
 ![Screenshot 2025-04-29 102031](https://github.com/user-attachments/assets/1838b8a5-582f-4ea7-9b90-506d34434d7e)
 
 ## Result
+The Python program to check whether the given number is even or odd using if...else statements was successfully executed.
